@@ -88,3 +88,8 @@ Our family is strong. We know many great people that we were working together at
 **Agata Mróz**: Frontend developer
 
 **Jędrzej Wojnar**: Communication specialist
+
+
+## Contact us
+
+If you want to talk about our new cooperation, send us a message at hello@eyedea.io and we'll set up a meeting.
