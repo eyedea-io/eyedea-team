@@ -20,7 +20,7 @@ No more messy e-mail threads / private messages. We are using Slack for daily co
 
 ### Product-oriented thinking
 
-We like to be sure that we're building the right thing, that's why we are using our method of creating digital products - Flow. It guides every team member towards the goal smoothly. We are used to discussing problems and finding solutions instead of blindly executing the client's ideas. 
+We like to be sure that we're building the right thing, that's why we are using our method of creating digital products - [Flow](http://flowplatform.io). It guides every team member towards the goal smoothly. We are used to discussing problems and finding solutions instead of blindly executing the client's ideas. 
 
 ### EYEDEA PROJECT 101
 
