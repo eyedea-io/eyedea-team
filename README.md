@@ -72,12 +72,17 @@ Frontend developer with 3 years of experience.
 
 Our family is strong. We know many great people that we were working together at different times. We are happy to have them around; they are happy to create new things with us.
 
-### Michał Galubiński - UX/UI Expert Designer
+### Michał Galubiński
+UX/UI Expert Designer
 
-### Kamil Najman - UX/UI Designer
+### Kamil Najman
+UX/UI Designer
 
-### Michał Kulesza - Brand designer
+### Michał Kulesza
+Brand designer
 
-### Agata Mróz - Frontend developer
+### Agata Mróz
+Frontend developer
 
-### Jędrzej Wojnar - Communication specialist
+### Jędrzej Wojnar
+Communication specialist
