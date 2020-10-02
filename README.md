@@ -27,14 +27,14 @@ We like to be sure that we're building the right thing, that's why we are using 
 
 Here's the list of our skills.
 
-Venture building
-Product development 
-Product management
-Branding
-UX / UI Design
-Web apps development
-DevOps
-Cloud
+- Venture building
+- Product development 
+- Product management
+- Branding
+- UX / UI Design
+- Web apps development
+- DevOps
+- Cloud
 
 ## EYEDEA CORE
 
