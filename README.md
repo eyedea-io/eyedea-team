@@ -6,7 +6,7 @@ We are EYEDEA: a cross-disciplinary product-oriented team. Maciej Kucharz founde
 
 ## How do we work?
 
-We are different from a traditional software house - we don't like to burn your time and money. Our main goal for each project we're working on is to deliver the best possible value and experience for both: you, and the end-user.
+We are different from a traditional software house - we don't like to burn your time and money. Our main goal for each project we're working on is to deliver the best possible value and experience for both: you, and the end-user. We are starting with problem validation, ending up on reaching product-market fit. 
 
 Working with us means that you will deal with the following principles.
 
@@ -20,48 +20,64 @@ No more messy e-mail threads / private messages. We are using Slack for daily co
 
 ### Product-oriented thinking
 
-We like to be sure that we're building the right thing. 
-**TODO:** add more info here
+We like to be sure that we're building the right thing, that's why we are using our method of creating digital products - Flow. It guides every team member towards the goal smoothly. We are used to discussing problems and finding solutions instead of blindly executing the client's ideas. 
 
 
 ## How can we help you?
 
 Here's the list of our skills.
 
+Venture building
 Product development 
-**TODO:** add more info here
-
+Product management
+Branding
+UX / UI Design
+Web apps development
+DevOps
+Cloud
 
 ## EYEDEA CORE
 
 ### Maciej Kucharz
-Founder, product manager, 
+Founder, CEO, and product manager with 15 years of experience in designing and implementing products. Experienced in building and managing product teams. He has high awareness and understanding of business processes combined with technical knowledge.
 
 ### Maciej Korsan
+CXO, senior full-stack engineer, and product manager. He's building online stuff since 2005. Interested in UI engineering, web accessibility and growth hacking. Owner and trainer at the online frontend school with over 2000 students.
+
 
 ### Hubert Zub
+CTO and expert full-stack engineer with 10 years of experience. Wise and friendly team leader. Ready to consult, discuss and provide an architecture for your web app. He used to work with various methodologies in different environments, both in agile startups and large corporate projects. 
+
 
 ### Kasper Mikiewicz
+Expert full-stack engineer with 10 years of experience. Skilled in React, JavaScript, TypeScript, node.js. Hackathon lover with interests in functional design.
+
 
 ### Karolina Jabłońska-Korsan
+Technical product manager and skilled frontend developer with 4 years of experience. Artistic soul with an analytic mind. She has great communication and organizational skills. 
+
 
 ### Marta Zbiejczuk
-
-### Olga Łapińska
+Senior frontend developer with 6 years of experience and "pixel perfect" eye. Microsoft Imagine Cup finalist.
 
 ### Martyna Kołakowska
+Frontend developer with 3 years of experience. Her BSc thesis was about Azure Cognitive Services.
+
+### Olga Łapińska
+Frontend developer with 3 years of experience. 
+
 
 
 ## EYEDEA FAMILY
 
 Our family is strong. We know many great people that we were working together at different times. We are happy to have them around; they are happy to create new things with us.
 
-### Kamil Najman
+### Michał Galubiński - UX/UI Expert Designer
 
-### Michał Kulesza
+### Kamil Najman - UX/UI Designer
 
-### Michał Galubiński
+### Michał Kulesza - Brand designer
 
-### Agata Mróz 
+### Agata Mróz - Frontend developer
 
-### Jędrzej Wojnar
+### Jędrzej Wojnar - Communication specialist
