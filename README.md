@@ -34,6 +34,7 @@ Here's the list of our skills.
 - UX / UI Design
 - Web apps development
 - DevOps
+- Growth hacking and analytics
 - Cloud
 
 ## EYEDEA CORE
