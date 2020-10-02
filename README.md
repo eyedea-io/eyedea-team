@@ -1,8 +1,8 @@
 ![](https://eyedea.io/img/eyedea_og_img.png)
 
-# EYEDEA AS at a glance 
+# EYEDEA at a glance 
 
-We are EYEDEA: a cross-disciplinary product-oriented team. Maciej Kucharz founded our company in 2015. Since then, we are using a diverse set of skills to help our Norwegian clients in building their digital products.    
+We are EYEDEA: a cross-disciplinary product-oriented team. Maciej Kucharz founded our company in 2015. Since then, we are using a diverse set of skills to help our Norwegian clients in building their digital products. We have established Norwegian and Polish entities.
 
 ## How do we work?
 
