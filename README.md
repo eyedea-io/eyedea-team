@@ -24,7 +24,9 @@ We like to be sure that we're building the right thing, that's why we are using 
 
 ### EYEDEA PROJECT 101
 
-We've created a short document describing how cooperation between us and the client looks like. You can find it here: [EYEDEA PROJECT 101](https://eyedea-io.github.io/project-101/).
+We've created a short document describing how cooperation between us and the client looks like. 
+
+You can find it here: [EYEDEA PROJECT 101](https://eyedea-io.github.io/project-101/).
 
 
 ## How can we help you?
