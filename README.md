@@ -22,6 +22,10 @@ No more messy e-mail threads / private messages. We are using Slack for daily co
 
 We like to be sure that we're building the right thing, that's why we are using our method of creating digital products - Flow. It guides every team member towards the goal smoothly. We are used to discussing problems and finding solutions instead of blindly executing the client's ideas. 
 
+### EYEDEA PROJECT 101
+
+We've created a short document describing how cooperation between us and the client looks like. You can find it here: [EYEDEA PROJECT 101](https://eyedea-io.github.io/project-101/).
+
 
 ## How can we help you?
 
