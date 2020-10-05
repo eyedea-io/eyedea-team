@@ -79,11 +79,11 @@ Frontend developer with 3 years of experience.
 
 Our family is strong. We know many great people that we were working together at different times. We are happy to have them around; they are happy to create new things with us.
 
-**Michał Galubiński**: UX/UI Expert Designer | [Behance Portfolio](https://www.behance.net/michalgalubinski)
+**Michał Galubiński**: UX/UI Expert Designer - [Behance Portfolio](https://www.behance.net/michalgalubinski)
 
-**Kamil Najman**: UX/UI Designer | [Behance Portfolio](https://www.behance.net/kamilnajman)
+**Kamil Najman**: UX/UI Designer - [Behance Portfolio](https://www.behance.net/kamilnajman)
 
-**Michał Kulesza**: Brand designer | [Behance Portfolio]( https://www.behance.net/m-kulesza)
+**Michał Kulesza**: Brand designer - [Behance Portfolio]( https://www.behance.net/m-kulesza)
 
 **Agata Mróz**: Frontend developer
 
