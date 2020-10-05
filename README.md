@@ -41,7 +41,7 @@ Here's the list of our skills.
 - Web apps development
 - DevOps
 - Growth hacking and analytics
-- Cloud
+- Cloud Infrastructure
 
 ## EYEDEA CORE
 
